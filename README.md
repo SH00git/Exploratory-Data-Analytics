@@ -9,3 +9,11 @@ The road accident database contains the following list of features
 - Data Cleaning ( filling missing values, nan, removing outliers, converting data types, cleaning tetx columns, handing data imbalances)
 -Exploratory analysis on the dataset is performed to gain insights ( barplot, histplot, countplot)
 - The cleaned data is then exported to csv file and visualised in forms of charts and dashbords in PowerBI software
+
+  ### Migratory Birds Tracking
+  - Dataset:
+  - Code:
+
+    - Data Visualisation : Scatter Plots, Line plots -visualising the trajectory, mean speed of the different bird species, geoplotting the migratory route in cartopy library
+  
+  
