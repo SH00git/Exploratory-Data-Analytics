@@ -1,29 +1,9 @@
-The road accident database contains the following list of features
- 0   Accident_Index                  
- 1   Accident Date               
- 2   Day_of_Week                     
- 3   Junction_Control                
- 4   Junction_Detail               
- 5   Accident_Severity                 
- 6   Latitude                       
- 7   Light_Conditions                   
- 8   Local_Authority_(District)     
- 9   Carriageway_Hazards              
- 10  Longitude                   
- 11  Number_of_Casualties           
- 12  Number_of_Vehicles             
- 13  Police_Force                   
- 14  Road_Surface_Conditions           
- 15  Road_Type                   
- 16  Speed_limit                    
- 17  Time                           
- 18  Urban_or_Rural_Area                
- 19  Weather_Conditions              
- 20  Vehicle_Type                
 
-
--The following set of actions were performed on the dataset:-
+### Exploratory Analysis of Road Accident Data:
 -
+The road accident database contains the following list of features
+ Accident_Index, Accident Date, Day_of_Week, Junction_Control, Junction_Detail, Accident_Severity,  Latitude,  Light_Conditions, Local_Authority_(District) , Carriageway_Hazards, Longitude,  Number_of_Casualties, Number_of_Vehicles, Police_Force, Road_Surface_Conditions, Road_Type, Speed_limit, Time, Urban_or_Rural_Area, Weather_Conditions, Vehicle_Type                
+
 - Data Cleaning ( filling missing values, nan, removing outliers, converting data types, cleaning tetx columns, handing data imbalances)
- -Exploratory analysis on the dataset is performed to gain insights ( barplot, histplot, countplot)
-  - The cleaned data is then exported to csv file and visualised in forms of charts and dashbords in PowerBI software
+-Exploratory analysis on the dataset is performed to gain insights ( barplot, histplot, countplot)
+- The cleaned data is then exported to csv file and visualised in forms of charts and dashbords in PowerBI software
