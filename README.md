@@ -1,6 +1,7 @@
 
 ### Exploratory Analysis of Road Accident Data:
--
+- Code:https://github.com/SH00git/Exploratory-Data-Analytics/blob/main/P3.0Accident%20Data%20_.ipynb
+- Dashboard:
 The road accident database contains the following list of features
  Accident_Index, Accident Date, Day_of_Week, Junction_Control, Junction_Detail, Accident_Severity,  Latitude,  Light_Conditions, Local_Authority_(District) , Carriageway_Hazards, Longitude,  Number_of_Casualties, Number_of_Vehicles, Police_Force, Road_Surface_Conditions, Road_Type, Speed_limit, Time, Urban_or_Rural_Area, Weather_Conditions, Vehicle_Type                
 
